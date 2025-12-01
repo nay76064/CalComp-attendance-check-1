@@ -1,0 +1,8 @@
+{
+  "name": "Cal-Comp Attendance Tracker 6",
+  "description": "Automated attendance checking system with notifications for Employee entry/exit status.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
